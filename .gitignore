@@ -1,0 +1,7 @@
+/bin/
+target/
+targets/
+vendor/
+*.swp
+bindgen/*.o
+bindgen/*.a
